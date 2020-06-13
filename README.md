@@ -4,3 +4,10 @@ For a given dataset of Restaurant Reviews, applied Machine Learning Algorithms t
 
 ### ARTIFICIAL NEURAL NETWORKS
 For a given dataset of a bank containing list of active and non active users,applied artificial neural network to train the dataset and classified the given test set.Used "K-Fold Cross Validation" to find the accuracies of each epoch and tuned the parameters to achieve high accuracy. 
+
+### CONVOLUTIONAL NEURAL NETWORK
+Given many images of dogs and cats,trained the machine learning algorithm to identify the image by applying Convolutional Neural Network.
+Preprocessed the image by applying convolution layers,flattening and artificial neural network .Using ImageDataGenerator,trained the dataset for different variations of images and then applied algorithm to identify a given image. 
+
+
+
